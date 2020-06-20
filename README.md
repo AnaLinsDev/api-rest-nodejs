@@ -6,6 +6,6 @@
 
 ### Na Pratica
  
-- Abra a pasta no Prompt de comando ( adimistrador ). 
+- Abra a pasta no Prompt de comando ( administrador ). 
 - `$ npm install` 
 -  `$ npm start`  Iniciará o cliente na url `http://localhost:3000` 
